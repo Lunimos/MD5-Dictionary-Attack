@@ -16,7 +16,7 @@ Clone or Download the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/dictionary-attack.git
+git clone https://github.com/Lunimos/dictionary-attack.git
 cd dictionary-attack
 Prepare Input Files:
 
